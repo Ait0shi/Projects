@@ -1,8 +1,7 @@
-# Feel free to explore the different data science projects I've worked on!
+# Hi! Thanks for checking out my work. Here are some of the Data Science Projects I've completed:
 
-
-[Project 1: Hospital Readmissions](https://github.com/Ait0shi/Hospital_Readmissions)
-This machine-learning project uses Logistic Regression and Random Forest Classification to predict a diabetic patient's likelihood of hospital readmission.
+[Project 1:HR Analytics: Predicting Employee Attrition](https://github.com/Ait0shi/HR_Analytics)
+This project uses Logistic Regression and Random Forest Classification to predict features that affect employee turnover. 
 
 [Project 2: Spotify Recommender Systems](https://github.com/Ait0shi/SpotifyRecommender)
 This machine-learning project uses Euclidean Distance and Cosine Similarity to suggest songs based on user input. Calculations are based on similarity by genre, then popularity. This approach includes Exploratory Data Analysis, Normalization and encoding of categorical features, Model Deployment, and Evaluation.
@@ -26,4 +25,10 @@ Netflix, as a global streaming company, has played a major role in providing a p
 something that the company should invest more in. A table showing the top 3 English and non-English movies brings about a list of foreign films that have made their place as a cultural icon, not only in the United States but also worldwide.
 
 [Project 8: The Randomosity of Lottery Drawings](https://github.com/Ait0shi/Lottery_Randomosity)
-Can we use Machine Learning models to predict the next winning lottery numbers?
+Can we use Machine Learning models to predict the next winning lottery numbers? This blog post showcases visualizes data from the Lottery Drawings using Power Bi
+
+[Project 9: An analysis of childcare prices using Power Bi](https://github.com/Ait0shi/Childcare_Prices)
+The National Database of Childcare Prices is a technical report developed by the U.S. Department of Labor Women’s Bureau to promote opportunities for women to find employment. This study tries to understand how childcare, or lack thereof, could be a hindrance to a woman’s ability to obtain or maintain a job. For this project, I wanted to focus on my city to understand how its statistics compare to the National Average
+
+[Project 10: Hospital Readmissions](https://github.com/Ait0shi/Hospital_Readmissions)
+This machine-learning project uses Logistic Regression and Random Forest Classification to predict a diabetic patient's likelihood of hospital readmission.
